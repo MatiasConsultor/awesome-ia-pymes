@@ -114,6 +114,10 @@ Antes de usar cualquier herramienta con datos de tu empresa:
 4. **Firma un contrato de encargo de tratamiento** con el proveedor si trata datos personales por tu cuenta.
 5. **Informa a tu equipo** de qué herramientas se pueden usar y con qué datos.
 
+## Recursos prácticos para pymes
+
+- **[Recursos prácticos de IA para pymes](https://github.com/MatiasConsultor/recursos-ia-pymes)**: checklist de madurez digital, matriz de priorización, calculadora de ROI y plantilla n8n para revisar consultas.
+
 ## Cómo contribuir
 
 ¿Conoces una herramienta útil para pymes que no está en la lista? ¡Las contribuciones son bienvenidas!
